@@ -6,6 +6,7 @@ gemspec
 gem 'simple-auth', '~> 0.5.0'
 gem 'yard', '~> 0.9.12'
 gem 'yardstick', '~> 0.9.9'
+gem 'faraday', '1.0'
 
 group :development, :test do
   gem 'pry'
